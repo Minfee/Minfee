@@ -1,16 +1,29 @@
-### Hi there 👋
+# 👋 Hey!
 
-<!--
-**Minfee/Minfee** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<img align="right" src="https://github-readme-stats.vercel.app/api?username=Minfee&show_icons=true&icon_color=0366d6&text_color=24292e&bg_color=ffffff&hide_title=true" />
 
-Here are some ideas to get you started:
+I'm a Frontend Developer. Used to be a IOS Developer.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 💬 Worked language for me
+
+- ✅ ⁠ ⁢⁣⁡⁠ ⁢⁣⁡TypeScript / JavaScript
+- ✅ ⁠ ⁢⁣⁡⁠ ⁢⁣⁡Python / Java / NodeJs
+- ✅ ⁠ ⁢⁣⁡⁠ ⁢⁣⁡SQL
+- ✅ ⁠ ⁢⁣⁡⁠ ⁢⁣⁡Swift
+
+
+<img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Minfee&layout=compact"/>
+
+## 📮 How to reach me
+
+- Twitter [@Minfee](https://twitter.com/MinfeeLi)
+- Email [Follow Up Here](mailto:limingfeichn@gmail.com)
+
+## Magic Number
+
+![Visited By](https://count.getloli.com/get/@Minfee?theme=gelbooru)
+
+## 👀 Some cool stuff to look into 
+
+Have a look at pinned projects below.
+                           
