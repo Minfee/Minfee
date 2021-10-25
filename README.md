@@ -7,7 +7,8 @@ I'm a Frontend Developer. Used to be a IOS Developer.
 ## 💬 Worked language for me
 
 - ✅ ⁠ ⁢⁣⁡⁠ ⁢⁣⁡TypeScript / JavaScript
-- ✅ ⁠ ⁢⁣⁡⁠ ⁢⁣⁡Python / Java / NodeJs
+- ✅ ⁠ ⁢⁣⁡⁠ ⁢⁣⁡Java / NodeJs
+- ✅ ⁠ ⁢⁣⁡⁠ ⁢⁣⁡Python / Golang
 - ✅ ⁠ ⁢⁣⁡⁠ ⁢⁣⁡SQL
 - ✅ ⁠ ⁢⁣⁡⁠ ⁢⁣⁡Swift
 
